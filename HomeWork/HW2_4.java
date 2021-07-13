@@ -88,7 +88,7 @@ class MyFrame extends JFrame implements ActionListener{
 	}
 	
 }
-public class HW2_4_안혜진 {
+public class {
 	public static void main(String[] args) {
 		MyFrame f = new MyFrame(); //MyFrame 객체 생성
 	}
